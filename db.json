@@ -1,0 +1,24 @@
+{
+    "Users": [{
+            "id": 1,
+            "name": " Luis"
+        },
+        {
+            "id": 2,
+            "name": "Gustavo Cabral"
+        },
+        {
+            "id": 3,
+            "name": "Rodrigo"
+        }
+    ],
+    "Pets": [{
+            "id": 1,
+            "name": "Luna"
+        },
+        {
+            "id": 2,
+            "name": "Marlon"
+        }
+    ]
+}
